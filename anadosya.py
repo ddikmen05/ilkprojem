@@ -1,5 +1,3 @@
-print("""
-
 HESAP MAKİNESİ
 
 TOPLAMA İŞLEMİ YAPMAK İÇİN 1 'e BASIN.
@@ -28,4 +26,4 @@ elif islem == "4":
     sayi2 = int(input("sayi2 giriniz: "))
     print("Sonuç:", sayi1/sayi2)
 else:
-    print("geçersiz işlem girdiniz...")
+    print("geçersiz işlem girdiniz...")1
